@@ -19,7 +19,6 @@ export default function Contacts() {
               options={{
                 loop: true,
                 autoplay: true,
-                speed: 1.5,
                 animationData: EmailMessage,
               }}
             />

@@ -28,7 +28,6 @@ export default function HomePage() {
           options={{
             loop: true,
             autoplay: true,
-
             animationData: perfilImg,
           }}
         />
