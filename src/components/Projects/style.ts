@@ -14,6 +14,7 @@ export const ProjectsStyle = styled.div`
   }
   .projectsContainer {
     display: flex;
+
     justify-content: space-between;
     flex-wrap: wrap;
   }
