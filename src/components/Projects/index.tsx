@@ -2,9 +2,9 @@ import Image from "next/image";
 import img1 from "../../../public/1.png";
 import img2 from "../../../public/2.png";
 import img3 from "../../../public/3.png";
-import img4 from "../../../public/3.png";
-import img5 from "../../../public/3.png";
-import img6 from "../../../public/3.png";
+import img4 from "../../../public/4.png";
+import img5 from "../../../public/5.png";
+import img6 from "../../../public/6.png";
 
 import { BsArrowReturnRight } from "react-icons/bs";
 import {
@@ -54,12 +54,15 @@ export default function Projects() {
                 ></Image>
               </Imagestyled>
               <Content>
-                <h2>projeto 02</h2>
+                <h2>React Todo List</h2>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab
-                  velit odio quae exercitationem.
+                  projeto simples feito em react
                 </p>
-                <Link>veja ao vivo</Link>
+               <Link>
+                  <a href="https://reacttasklist.netlify.app/">
+                    veja ao vivo
+                  </a>
+                </Link>
               </Content>
             </Projetos>
 
@@ -95,7 +98,11 @@ export default function Projects() {
                 <p>
                   Site originalmente feito na Nlw Return que refiz ultizando  React com vitejs e chakraUI
                 </p>
-                 <Link href="https://github.com/airtonsena10/Beautystyle">veja ao vivo</Link>
+                 <Link>
+                  <a href="https://github.com/airtonsena10/Beautystyle">
+                    veja ao vivo
+                  </a>
+                </Link>
               </Content>
             </Projetos>
 
@@ -131,7 +138,11 @@ export default function Projects() {
                 <p>
                   ig.news é um projeto desenvolvido no Ignite da Rocketseat
                 </p>
-                <Link href="https://ignewss-airtonsena10.vercel.app/">veja ao vivo</Link>
+               <Link>
+                  <a href="https://ignewss-airtonsena10.vercel.app/">
+                    veja ao vivo
+                  </a>
+                </Link>
               </Content>
             </Projetos>
           </CardsPainel>
