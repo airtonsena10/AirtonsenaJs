@@ -91,12 +91,11 @@ export default function Projects() {
                 ></Image>
               </Imagestyled>
               <Content>
-                <h2>Este site aqui </h2>
+                <h2> Beauty Styles </h2>
                 <p>
-                  site Desenvolvido para mostrar um pouco sobre min,meus
-                  projetos, habilidades...
+                  Site originalmente feito na Nlw Return que refiz ultizando  React com vitejs e chakraUI
                 </p>
-                <Link>veja ao vivo</Link>
+                 <Link href="https://github.com/airtonsena10/Beautystyle">veja ao vivo</Link>
               </Content>
             </Projetos>
 
@@ -110,10 +109,9 @@ export default function Projects() {
                 ></Image>
               </Imagestyled>
               <Content>
-                <h2>Este site aqui </h2>
+                <h2>Upload</h2>
                 <p>
-                  site Desenvolvido para mostrar um pouco sobre min,meus
-                  projetos, habilidades...
+                  um mini upload feito na badico Cloud junto da comunidade interna da badico 
                 </p>
                 <Link>veja ao vivo</Link>
               </Content>
@@ -129,12 +127,11 @@ export default function Projects() {
                 ></Image>
               </Imagestyled>
               <Content>
-                <h2>Este site aqui </h2>
+                <h2>Ignews </h2>
                 <p>
-                  site Desenvolvido para mostrar um pouco sobre min,meus
-                  projetos, habilidades...
+                  ig.news é um projeto desenvolvido no Ignite da Rocketseat
                 </p>
-                <Link>veja ao vivo</Link>
+                <Link href="https://ignewss-airtonsena10.vercel.app/">veja ao vivo</Link>
               </Content>
             </Projetos>
           </CardsPainel>
