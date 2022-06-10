@@ -55,13 +55,9 @@ export default function Projects() {
               </Imagestyled>
               <Content>
                 <h2>React Todo List</h2>
-                <p>
-                  projeto simples feito em react
-                </p>
-               <Link>
-                  <a href="https://reacttasklist.netlify.app/">
-                    veja ao vivo
-                  </a>
+                <p>projeto simples feito em react</p>
+                <Link>
+                  <a href="https://reacttasklist.netlify.app/">veja ao vivo</a>
                 </Link>
               </Content>
             </Projetos>
@@ -96,9 +92,10 @@ export default function Projects() {
               <Content>
                 <h2> Beauty Styles </h2>
                 <p>
-                  Site originalmente feito na Nlw Return que refiz ultizando  React com vitejs e chakraUI
+                  Site originalmente feito na Nlw Return que refiz ultizando
+                  React com vitejs e chakraUI
                 </p>
-                 <Link>
+                <Link>
                   <a href="https://github.com/airtonsena10/Beautystyle">
                     veja ao vivo
                   </a>
@@ -118,7 +115,8 @@ export default function Projects() {
               <Content>
                 <h2>Upload</h2>
                 <p>
-                  um mini upload feito na badico Cloud junto da comunidade interna da badico 
+                  um mini upload feito na badico Cloud junto da comunidade
+                  interna da badico
                 </p>
                 <Link>veja ao vivo</Link>
               </Content>
@@ -135,10 +133,8 @@ export default function Projects() {
               </Imagestyled>
               <Content>
                 <h2>Ignews </h2>
-                <p>
-                  ig.news é um projeto desenvolvido no Ignite da Rocketseat
-                </p>
-               <Link>
+                <p>ig.news é um projeto desenvolvido no Ignite da Rocketseat</p>
+                <Link>
                   <a href="https://ignewss-airtonsena10.vercel.app/">
                     veja ao vivo
                   </a>

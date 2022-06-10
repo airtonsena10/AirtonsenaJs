@@ -86,4 +86,8 @@ export const Link = styled.div`
   :hover {
     background: ${(props) => props.theme.colors.background};
   }
+
+  a {
+    color: #fff;
+  }
 `;
