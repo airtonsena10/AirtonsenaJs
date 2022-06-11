@@ -11,7 +11,7 @@ export default function Contacts() {
     <>
       <Container id="contact" data-aos="fade-up">
         <h2 className="subTitle">
-          <BsArrowReturnRight /> Vamos entrar em contato
+          <BsArrowReturnRight /> Vamos Conversar!
         </h2>
         <div className="contactContainer">
           <Emailform>

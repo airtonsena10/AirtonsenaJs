@@ -26,21 +26,21 @@ export default function About() {
             <br />
             <p className="paragraph" data-aos="fade-right">
               Atualmente estou como Desenvolvedor trainee na Badico Cloud
-              Engineering. Estudando sobre Desenvolvimento Web, com foco em
-              front end e futuramente avançar no back-end
+              Engineering. Estudo sobre Desenvolvimento Web, com foco em front
+              end e futuramente avançar no back-end
             </p>
             <br />
             <p className="paragraph" data-aos="fade-right">
               Tenho como objetivo contribuir o máximo para a equipe e a empresa,
               estou sempre disposto a aprender mais e me adaptar as diversas
               situações as quais somos apresentados diariamente. Busco evoluir
-              como profissional e crescer dentro da empresa.
+              como profissional e crescer na área.
             </p>
             <br />
 
             <p className="paragraph" data-aos="fade-right">
               <h3>
-                Aqui estão algumas tecnologias com as quais tenho trabalhado
+                Estas sâo algumas tecnologias com as quais tenho trabalhado
                 recentemente:
               </h3>
             </p>
