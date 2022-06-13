@@ -2,9 +2,19 @@
   <strong>Portfolio Airton Sena</strong>
 </h1> 
 <Br/>
-<h1 align="center">
-    <img alt="logo" title="Ignews" src="https://i.ibb.co/9Nz15Gh/2022-06-12-18-02.png" width="80%" />
-</h1>
+
+
+| Versão  Desktop: |Versão mobile: |
+|----------|----------|
+|![example](https://i.ibb.co/9Nz15Gh/2022-06-12-18-02.png)|![example](https://pbs.twimg.com/media/FVFucjlXoAA-nVb?format=jpg&name=large)|
+
+--- 
+
+
+
+
+
+
 
 ## 💻 Projeto
 
